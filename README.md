@@ -1,8 +1,3 @@
-[![CentOS 7.x find 4.5.11 has a fd leak in ...](https://images.openai.com/thumbnails/209b052d8fdbfbc639d69396caafa425.png)](https://github.com/sous-chefs/selinux_policy/issues/88)
-Certainly! Based on the information available from your GitHub repository, here's an enhanced `README.md` tailored for **Techcadia**:
-
----
-
 # Techcadia
 
 **Techcadia** is an educational game designed to immerse players in the world of technology. Through interactive challenges and scenarios, players explore the fundamentals of:
@@ -76,10 +71,9 @@ Techcadia is licensed under the MIT License. See the [LICENSE](LICENSE) file for
 
 ## Connect with Us
 
-- [Website](https://techcadia.io) *(replace with real link)*
-- [Twitter](https://twitter.com/techcadia) *(replace with real link)*
-- [Contact](mailto:contact@techcadia.io)
+- [Website](https://) *(replace with real link)*
+- [Twitter](https://) *(replace with real link)*
+- [Contact](mailto:)
 
 ---
 
-Feel free to adjust any sections as needed, especially the installation steps and technology stack, to accurately reflect your project's setup. 
